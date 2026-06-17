@@ -1,0 +1,9 @@
+La seguridad digital en plataformas comunitarias es de vital importancia porque resguarda la integridad
+y la confianza de los ciudadanos que participan activamente. En este tipo de iniciativas, las personas
+comparten datos sensibles, opiniones y denuncias sobre su entorno; por lo tanto, cualquier filtración de
+información o ataque cibernético podría exponer su identidad y poner en riesgo su integridad física o moral.
+Además, garantizar la protección de la información previene la manipulación de datos por parte de agentes
+externos o bots que busquen sabotear los procesos de consulta pública o distorsionar la veracidad de los reportes.
+Un entorno seguro y regulado fomenta una mayor participación social, ya que los miembros de la comunidad
+sienten el respaldo institucional para expresarse libremente y colaborar en la resolución de problemas.
+En definitiva, la ciberseguridad es una responsabilidad ética que sostiene la cohesión y la paz digital.

@@ -1,0 +1,8 @@
+Comando uname -a:
+Muestra información completa del sistema operativo y del hardware. Esto incluye el nombre del núcleo (kernel), el nombre de host de la red, la versión y lanzamiento del kernel, la fecha de compilación del kernel, la arquitectura de la máquina (por ejemplo, x86_64) y el sistema operativo (como GNU/Linux).
+
+Comando whoami:
+Muestra el nombre del usuario con el que se ha iniciado la sesión actual y que está ejecutando los comandos en la terminal.
+
+Importancia de esta información al administrar un servidor:
+Es fundamental porque permite verificar la identidad y los privilegios del usuario activo (por ejemplo, comprobar si se dispone de acceso como administrador/root) para ejecutar tareas críticas del sistema de forma segura. Asimismo, conocer los detalles del sistema operativo, versión del kernel y arquitectura del procesador es indispensable para instalar paquetes y dependencias compatibles, aplicar parches de seguridad adecuados frente a vulnerabilidades específicas y diagnosticar problemas de compatibilidad del software.

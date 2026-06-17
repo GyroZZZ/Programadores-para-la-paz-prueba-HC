@@ -66,4 +66,16 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[ejemplos-reportes.txt](file:///MODULO_3/semana7/ejemplos-reportes.txt)**: Ejemplos en formato JSON de reportes que los ciudadanos pueden registrar en la plataforma.
 * **[reflexion-semana7.txt](file:///MODULO_3/semana7/reflexion-semana7.txt)**: Reflexión (9 líneas) sobre la importancia de registrar y consultar incidencias en sistemas tecnológicos comunitarios.
 
+---
+
+### [Módulo 4: Administración de Servidores y Seguridad Digital](file:///MODULO_4)
+
+#### [Semana 8: Linux, Terminal y Seguridad en Plataformas Comunitarias](file:///MODULO_4/semana8)
+* **[preguntas-semana8.txt](file:///MODULO_4/semana8/preguntas-semana8.txt)**: Respuestas teóricas sobre sistemas operativos, terminales y seguridad digital.
+* **[buenas-practicas.txt](file:///MODULO_4/semana8/seguridad/buenas-practicas.txt)**: Documento detallando tres buenas prácticas de seguridad digital para usuarios.
+* **[sistema.txt](file:///MODULO_4/semana8/sistema.txt)**: Explicación de los comandos `uname -a` y `whoami`, y su utilidad en la administración de servidores.
+* **[seguridad-plataformas.txt](file:///MODULO_4/semana8/seguridad-plataformas.txt)**: Cinco prácticas de seguridad aplicables a plataformas digitales de participación comunitaria.
+* **[reflexion-semana8.txt](file:///MODULO_4/semana8/reflexion-semana8.txt)**: Reflexión (9 líneas) acerca de la relevancia de la ciberseguridad para proteger la confianza en plataformas participativas.
+
+
 

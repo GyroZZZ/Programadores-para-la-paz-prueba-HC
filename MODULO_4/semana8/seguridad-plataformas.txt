@@ -1,0 +1,5 @@
+1. No exponer datos personales (como teléfonos, correos o direcciones) al público general, limitándolos a los administradores autorizados.
+2. Proteger credenciales de acceso mediante encriptación de contraseñas y uso de contraseñas robustas.
+3. Usar conexiones seguras y protocolos cifrados (como HTTPS y SSL/TLS) para toda la transferencia de datos.
+4. Registrar y monitorear los accesos y logs de actividad del sistema para detectar comportamientos inusuales o accesos no autorizados.
+5. Limitar el acceso a información sensible basándose en roles de usuario bien definidos y el principio de mínimo privilegio.
