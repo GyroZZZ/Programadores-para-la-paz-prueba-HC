@@ -1,0 +1,9 @@
+Recibir información de forma estructurada es crucial para que las plataformas tecnológicas puedan
+procesar, clasificar y priorizar los reportes ciudadanos de manera automatizada y eficiente.
+El uso de formatos estructurados como JSON permite que los datos ingresados por el usuario
+se guarden ordenadamente en bases de datos, evitando errores de interpretación humana.
+Esto agiliza la canalización de los problemas (como fallas de alumbrado o daños viales)
+hacia los departamentos o brigadas correspondientes, acelerando los tiempos de respuesta.
+Además, facilita la generación de estadísticas claras e indicadores visuales sobre las
+necesidades más urgentes del sector, promoviendo una toma de decisiones informada.
+En resumen, el orden de los datos optimiza la gestión colectiva y fortalece la confianza ciudadana.

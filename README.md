@@ -45,3 +45,16 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[pruebas.txt](file:///MODULO_2/semana5/pruebas.txt)**: Reporte de las pruebas de las rutas GET ejecutadas en el navegador.
 * **[conceptos-api.txt](file:///MODULO_2/semana5/conceptos-api.txt)**: Explicación del funcionamiento y utilidad práctica de la ruta POST `/reporte`.
 * **[reflexion-semana5.txt](file:///MODULO_2/semana5/reflexion-semana5.txt)**: Reflexión (9 líneas) sobre el potencial de las APIs para la organización comunitaria.
+
+---
+
+### [Módulo 3: Intercambio de Datos, JSON y Métodos Avanzados](file:///MODULO_3)
+
+#### [Semana 6: JSON, req.body y Peticiones POST](file:///MODULO_3/semana6)
+* **[server.js](file:///MODULO_3/semana6/server.js)**: Servidor Express con endpoints POST para recibir registros e incidencias comunitarias en formato JSON.
+* **[package.json](file:///MODULO_3/semana6/package.json)**: Archivo de configuración del proyecto Node y sus dependencias de la semana 6.
+* **[preguntas-semana6.txt](file:///MODULO_3/semana6/preguntas-semana6.txt)**: Respuestas teóricas sobre JSON y el uso de `req.body` en peticiones POST.
+* **[prueba-api.txt](file:///MODULO_3/semana6/prueba-api.txt)**: Descripción de la respuesta JSON del servidor al probar la ruta `/registro`.
+* **[ejemplo-incidencia.txt](file:///MODULO_3/semana6/ejemplo-incidencia.txt)**: JSON de prueba enviado por la ciudadanía para registrar reportes vecinales.
+* **[reflexion-semana6.txt](file:///MODULO_3/semana6/reflexion-semana6.txt)**: Reflexión (9 líneas) sobre el beneficio de procesar información comunitaria de manera estructurada.
+
