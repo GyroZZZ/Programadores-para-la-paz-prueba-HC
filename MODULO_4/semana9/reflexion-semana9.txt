@@ -1,0 +1,9 @@
+La estabilidad y seguridad de un servidor que aloja plataformas comunitarias es indispensable
+para proteger la continuidad del servicio y garantizar que los vecinos puedan comunicarse sin interrupciones.
+Si un servidor se cae frecuentemente o es inestable, la comunidad perderá la confianza en el canal y dejará
+de usarlo, lo cual debilita la participación ciudadana y obstaculiza la resolución colectiva de problemas.
+Asimismo, un servidor seguro evita que personas externas intercepten los datos de los usuarios o manipulen
+la base de datos, resguardando la privacidad de las denuncias e incidencias de los habitantes de la zona.
+La confiabilidad en los sistemas tecnológicos es el pilar sobre el cual se construye la veeduría y la
+organización vecinal, permitiendo que la tecnología sea una verdadera herramienta de cohesión y paz digital.
+En conclusión, una infraestructura sólida es la clave para la permanencia de los procesos participativos.

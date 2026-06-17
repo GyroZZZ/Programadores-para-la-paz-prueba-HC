@@ -1,0 +1,14 @@
+Sistema operativo:
+Es el software base que administra los recursos de hardware del computador, como la memoria, el procesador y la red. Actúa como el entorno fundamental que permite la instalación y ejecución segura del servidor web.
+
+Node.js:
+Es un entorno de ejecución de JavaScript para el lado del servidor, construido con el motor V8 de Chrome. Permite ejecutar programas y servicios web escritos en JavaScript fuera de un navegador web, facilitando el desarrollo rápido y escalable.
+
+Aplicación server.js:
+Es el archivo de código fuente desarrollado en JavaScript que define la lógica de la API. Utiliza el framework Express para gestionar el enrutamiento de peticiones, escuchar en un puerto específico y procesar las respuestas que se envían al cliente.
+
+Puerto:
+Es una interfaz lógica de red que un servidor web utiliza para canalizar el tráfico de datos entrante y saliente. Permite que múltiples aplicaciones utilicen la red simultáneamente al escuchar solicitudes en un canal numérico específico (como el puerto 3000).
+
+Logs:
+Son archivos de registro histórico que almacenan cronológicamente las acciones, accesos, advertencias y errores ocurridos en el servidor. Permiten a los administradores diagnosticar problemas técnicos, auditar el comportamiento del sistema y mantener su estabilidad.

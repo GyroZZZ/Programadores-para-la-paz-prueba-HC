@@ -77,5 +77,14 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[seguridad-plataformas.txt](file:///MODULO_4/semana8/seguridad-plataformas.txt)**: Cinco prácticas de seguridad aplicables a plataformas digitales de participación comunitaria.
 * **[reflexion-semana8.txt](file:///MODULO_4/semana8/reflexion-semana8.txt)**: Reflexión (9 líneas) acerca de la relevancia de la ciberseguridad para proteger la confianza en plataformas participativas.
 
+#### [Semana 9: Servidores, Node.js y Estabilidad del Sistema](file:///MODULO_4/semana9)
+* **[server.js](file:///MODULO_4/semana9/server.js)**: Servidor Express básico con endpoints GET para verificar la estabilidad y el estado de la API.
+* **[package.json](file:///MODULO_4/semana9/package.json)**: Archivo de configuración de dependencias de Node.js para la semana 9.
+* **[preguntas-semana9.txt](file:///MODULO_4/semana9/preguntas-semana9.txt)**: Respuestas a las preguntas de opción múltiple sobre servidores, puertos y logs.
+* **[ejecucion-servidor.txt](file:///MODULO_4/semana9/ejecucion-servidor.txt)**: Reporte y descripción del proceso de inicio del servidor y respuesta de la ruta `/estado`.
+* **[componentes-servidor.txt](file:///MODULO_4/semana9/componentes-servidor.txt)**: Explicación corta (2 a 3 líneas) de los componentes clave de un entorno de servidor.
+* **[reflexion-semana9.txt](file:///MODULO_4/semana9/reflexion-semana9.txt)**: Reflexión (9 líneas) sobre el valor de la estabilidad y ciberseguridad de los servidores para la confianza comunitaria.
+
+
 
 
