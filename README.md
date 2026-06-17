@@ -15,18 +15,18 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 
 #### [Semana 1: Ciudadanía Digital, Algoritmos y Git](file:///MODULO_1/semana1)
 * **[preguntas-semana1.txt](file:///MODULO_1/semana1/preguntas-semana1.txt)**: Respuestas a las preguntas conceptuales de ciudadanía digital.
-* **[reflexion-semana1.txt](file:///MODULO_1/semana1/reflexion-semana1.txt)**: Reflexión escrita (9 líneas) sobre la ética en internet y la trazabilidad del código.
+* **[reflexion-semana1.txt](file:///MODULO_1/semana1/reflexion-semana1.txt)**: Reflexión escrita sobre la ética en internet y la trazabilidad del código.
 * **[algoritmo-semana1.txt](file:///MODULO_1/semana1/algoritmo-semana1.txt)**: Algoritmo para compartir información confiable en internet.
 
 #### [Semana 2: Terminal de Comandos, Carpetas y Archivos](file:///MODULO_1/semana2)
 * **[preguntas-semana2.txt](file:///MODULO_1/semana2/preguntas-semana2.txt)**: Cuestionario teórico sobre comandos básicos de consola.
 * **[comandos-terminal.txt](file:///MODULO_1/semana2/comandos-terminal.txt)**: Log de comandos ejecutados en la terminal.
-* **[reflexion-semana2.txt](file:///MODULO_1/semana2/reflexion-semana2.txt)**: Reflexión (9 líneas) sobre la importancia del uso de la línea de comandos.
+* **[reflexion-semana2.txt](file:///MODULO_1/semana2/reflexion-semana2.txt)**: Reflexión sobre la importancia del uso de la línea de comandos.
 
 #### [Semana 3: Git, Trazabilidad y GitHub](file:///MODULO_1/semana3)
 * **[preguntas-semana3.txt](file:///MODULO_1/semana3/preguntas-semana3.txt)**: Respuestas sobre el funcionamiento de Git y sus estados.
 * **[conceptos-git.txt](file:///MODULO_1/semana3/conceptos-git.txt)**: Definiciones cortas de conceptos clave (Repositorio, Commit y Push).
-* **[reflexion-semana3.txt](file:///MODULO_1/semana3/reflexion-semana3.txt)**: Reflexión (9 líneas) sobre la importancia de la trazabilidad y el valor histórico del código.
+* **[reflexion-semana3.txt](file:///MODULO_1/semana3/reflexion-semana3.txt)**: Reflexión sobre la importancia de la trazabilidad y el valor histórico del código.
 
 ---
 
@@ -36,7 +36,7 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[server.js](file:///MODULO_2/semana4/server.js)**: Servidor Express básico que responde con un mensaje de comprobación.
 * **[package.json](file:///MODULO_2/semana4/package.json)**: Archivo de configuración del proyecto Node y sus dependencias.
 * **[preguntas-semana4.txt](file:///MODULO_2/semana4/preguntas-semana4.txt)**: Respuestas teóricas sobre Node y Express.
-* **[reflexion-semana4.txt](file:///MODULO_2/semana4/reflexion-semana4.txt)**: Reflexión (9 líneas) sobre la soberanía tecnológica y el software abierto.
+* **[reflexion-semana4.txt](file:///MODULO_2/semana4/reflexion-semana4.txt)**: Reflexión sobre la soberanía tecnológica y el software abierto.
 
 #### [Semana 5: Rutas, Endpoints y APIs](file:///MODULO_2/semana5)
 * **[server.js](file:///MODULO_2/semana5/server.js)**: Servidor Express extendido con endpoints GET y POST.
@@ -44,7 +44,7 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[preguntas-semana5.txt](file:///MODULO_2/semana5/preguntas-semana5.txt)**: Respuestas teóricas sobre rutas, parámetros y APIs.
 * **[pruebas.txt](file:///MODULO_2/semana5/pruebas.txt)**: Reporte de las pruebas de las rutas GET ejecutadas en el navegador.
 * **[conceptos-api.txt](file:///MODULO_2/semana5/conceptos-api.txt)**: Explicación del funcionamiento y utilidad práctica de la ruta POST `/reporte`.
-* **[reflexion-semana5.txt](file:///MODULO_2/semana5/reflexion-semana5.txt)**: Reflexión (9 líneas) sobre el potencial de las APIs para la organización comunitaria.
+* **[reflexion-semana5.txt](file:///MODULO_2/semana5/reflexion-semana5.txt)**: Reflexión sobre el potencial de las APIs para la organización comunitaria.
 
 ---
 
@@ -56,7 +56,7 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[preguntas-semana6.txt](file:///MODULO_3/semana6/preguntas-semana6.txt)**: Respuestas teóricas sobre JSON y el uso de `req.body` en peticiones POST.
 * **[prueba-api.txt](file:///MODULO_3/semana6/prueba-api.txt)**: Descripción de la respuesta JSON del servidor al probar la ruta `/registro`.
 * **[ejemplo-incidencia.txt](file:///MODULO_3/semana6/ejemplo-incidencia.txt)**: JSON de prueba enviado por la ciudadanía para registrar reportes vecinales.
-* **[reflexion-semana6.txt](file:///MODULO_3/semana6/reflexion-semana6.txt)**: Reflexión (9 líneas) sobre el beneficio de procesar información comunitaria de manera estructurada.
+* **[reflexion-semana6.txt](file:///MODULO_3/semana6/reflexion-semana6.txt)**: Reflexión sobre el beneficio de procesar información comunitaria de manera estructurada.
 
 #### [Semana 7: APIs, Almacenamiento en Memoria y Reportes Comunitarios](file:///MODULO_3/semana7)
 * **[server.js](file:///MODULO_3/semana7/server.js)**: Servidor Express con rutas GET y POST para registrar y consultar reportes vecinales en memoria.
@@ -64,7 +64,7 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[preguntas-semana7.txt](file:///MODULO_3/semana7/preguntas-semana7.txt)**: Respuestas a las preguntas teóricas sobre arrays, métodos HTTP y APIs.
 * **[prueba-reportes.txt](file:///MODULO_3/semana7/prueba-reportes.txt)**: Explicación detallada del funcionamiento y comportamiento de las consultas GET y registros POST.
 * **[ejemplos-reportes.txt](file:///MODULO_3/semana7/ejemplos-reportes.txt)**: Ejemplos en formato JSON de reportes que los ciudadanos pueden registrar en la plataforma.
-* **[reflexion-semana7.txt](file:///MODULO_3/semana7/reflexion-semana7.txt)**: Reflexión (9 líneas) sobre la importancia de registrar y consultar incidencias en sistemas tecnológicos comunitarios.
+* **[reflexion-semana7.txt](file:///MODULO_3/semana7/reflexion-semana7.txt)**: Reflexión sobre la importancia de registrar y consultar incidencias en sistemas tecnológicos comunitarios.
 
 ---
 
@@ -75,7 +75,7 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[buenas-practicas.txt](file:///MODULO_4/semana8/seguridad/buenas-practicas.txt)**: Documento detallando tres buenas prácticas de seguridad digital para usuarios.
 * **[sistema.txt](file:///MODULO_4/semana8/sistema.txt)**: Explicación de los comandos `uname -a` y `whoami`, y su utilidad en la administración de servidores.
 * **[seguridad-plataformas.txt](file:///MODULO_4/semana8/seguridad-plataformas.txt)**: Cinco prácticas de seguridad aplicables a plataformas digitales de participación comunitaria.
-* **[reflexion-semana8.txt](file:///MODULO_4/semana8/reflexion-semana8.txt)**: Reflexión (9 líneas) acerca de la relevancia de la ciberseguridad para proteger la confianza en plataformas participativas.
+* **[reflexion-semana8.txt](file:///MODULO_4/semana8/reflexion-semana8.txt)**: Reflexión acerca de la relevancia de la ciberseguridad para proteger la confianza en plataformas participativas.
 
 #### [Semana 9: Servidores, Node.js y Estabilidad del Sistema](file:///MODULO_4/semana9)
 * **[server.js](file:///MODULO_4/semana9/server.js)**: Servidor Express básico con endpoints GET para verificar la estabilidad y el estado de la API.
@@ -83,7 +83,7 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[preguntas-semana9.txt](file:///MODULO_4/semana9/preguntas-semana9.txt)**: Respuestas a las preguntas de opción múltiple sobre servidores, puertos y logs.
 * **[ejecucion-servidor.txt](file:///MODULO_4/semana9/ejecucion-servidor.txt)**: Reporte y descripción del proceso de inicio del servidor y respuesta de la ruta `/estado`.
 * **[componentes-servidor.txt](file:///MODULO_4/semana9/componentes-servidor.txt)**: Explicación corta (2 a 3 líneas) de los componentes clave de un entorno de servidor.
-* **[reflexion-semana9.txt](file:///MODULO_4/semana9/reflexion-semana9.txt)**: Reflexión (9 líneas) sobre el valor de la estabilidad y ciberseguridad de los servidores para la confianza comunitaria.
+* **[reflexion-semana9.txt](file:///MODULO_4/semana9/reflexion-semana9.txt)**: Reflexión sobre el valor de la estabilidad y ciberseguridad de los servidores para la confianza comunitaria.
 
 
 
