@@ -1,0 +1,8 @@
+Ruta: http://localhost:3000
+Comportamiento: El servidor responde con el texto simple "Servidor activo", que es el mensaje configurado para la ruta GET raíz (/).
+
+Ruta: http://localhost:3000/saludo
+Comportamiento: El servidor responde con el texto "Hola comunidad", definido en la ruta GET /saludo.
+
+Ruta: http://localhost:3000/mensaje/juan
+Comportamiento: El servidor utiliza el parámetro dinámico :nombre (req.params.nombre), extrae el valor "juan" y responde con el texto personalizado "Hola juan".

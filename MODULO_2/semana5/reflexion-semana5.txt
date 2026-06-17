@@ -1,0 +1,9 @@
+Las APIs (Interfaces de Programación de Aplicaciones) son fundamentales para que las comunidades
+compartan información porque permiten estandarizar la forma en que se envían y reciben datos.
+Al definir reglas claras, una API facilita la creación de bases de datos compartidas y organizadas
+sobre reportes de seguridad, alertas ambientales, solicitudes de ayuda o eventos locales.
+Además, posibilitan la interconexión de diferentes plataformas digitales abiertas, de manera
+que un reporte vecinal hecho desde una aplicación móvil pueda replicarse en un sitio web público.
+Esto automatiza los procesos, reduce el trabajo manual y asegura que la información circule rápido.
+En última instancia, las APIs promueven una colaboración técnica transparente e integrada,
+fortaleciendo la participación ciudadana y mejorando la capacidad de respuesta colectiva ante emergencias.

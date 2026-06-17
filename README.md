@@ -37,3 +37,11 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[package.json](file:///MODULO_2/semana4/package.json)**: Archivo de configuración del proyecto Node y sus dependencias.
 * **[preguntas-semana4.txt](file:///MODULO_2/semana4/preguntas-semana4.txt)**: Respuestas teóricas sobre Node y Express.
 * **[reflexion-semana4.txt](file:///MODULO_2/semana4/reflexion-semana4.txt)**: Reflexión (9 líneas) sobre la soberanía tecnológica y el software abierto.
+
+#### [Semana 5: Rutas, Endpoints y APIs](file:///MODULO_2/semana5)
+* **[server.js](file:///MODULO_2/semana5/server.js)**: Servidor Express extendido con endpoints GET y POST.
+* **[package.json](file:///MODULO_2/semana5/package.json)**: Configuración de dependencias de Node.js de la semana 5.
+* **[preguntas-semana5.txt](file:///MODULO_2/semana5/preguntas-semana5.txt)**: Respuestas teóricas sobre rutas, parámetros y APIs.
+* **[pruebas.txt](file:///MODULO_2/semana5/pruebas.txt)**: Reporte de las pruebas de las rutas GET ejecutadas en el navegador.
+* **[conceptos-api.txt](file:///MODULO_2/semana5/conceptos-api.txt)**: Explicación del funcionamiento y utilidad práctica de la ruta POST `/reporte`.
+* **[reflexion-semana5.txt](file:///MODULO_2/semana5/reflexion-semana5.txt)**: Reflexión (9 líneas) sobre el potencial de las APIs para la organización comunitaria.
