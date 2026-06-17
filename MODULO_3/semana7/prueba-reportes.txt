@@ -1,0 +1,26 @@
+1. Al realizar una consulta inicial mediante una petición GET a http://localhost:3000/reportes, el servidor responde con un array vacío [] puesto que el array 'reportes' se encuentra inicializado en memoria sin elementos.
+
+2. Al enviar una petición POST al endpoint http://localhost:3000/reportes con el siguiente objeto JSON en el cuerpo:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor añade el objeto al array con un id autoincremental y devuelve la respuesta:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+3. Al realizar nuevamente la consulta GET a http://localhost:3000/reportes, el servidor responde con el array que ahora contiene el objeto registrado:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]

@@ -58,3 +58,12 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[ejemplo-incidencia.txt](file:///MODULO_3/semana6/ejemplo-incidencia.txt)**: JSON de prueba enviado por la ciudadanía para registrar reportes vecinales.
 * **[reflexion-semana6.txt](file:///MODULO_3/semana6/reflexion-semana6.txt)**: Reflexión (9 líneas) sobre el beneficio de procesar información comunitaria de manera estructurada.
 
+#### [Semana 7: APIs, Almacenamiento en Memoria y Reportes Comunitarios](file:///MODULO_3/semana7)
+* **[server.js](file:///MODULO_3/semana7/server.js)**: Servidor Express con rutas GET y POST para registrar y consultar reportes vecinales en memoria.
+* **[package.json](file:///MODULO_3/semana7/package.json)**: Archivo de configuración y dependencias para la semana 7.
+* **[preguntas-semana7.txt](file:///MODULO_3/semana7/preguntas-semana7.txt)**: Respuestas a las preguntas teóricas sobre arrays, métodos HTTP y APIs.
+* **[prueba-reportes.txt](file:///MODULO_3/semana7/prueba-reportes.txt)**: Explicación detallada del funcionamiento y comportamiento de las consultas GET y registros POST.
+* **[ejemplos-reportes.txt](file:///MODULO_3/semana7/ejemplos-reportes.txt)**: Ejemplos en formato JSON de reportes que los ciudadanos pueden registrar en la plataforma.
+* **[reflexion-semana7.txt](file:///MODULO_3/semana7/reflexion-semana7.txt)**: Reflexión (9 líneas) sobre la importancia de registrar y consultar incidencias en sistemas tecnológicos comunitarios.
+
+
