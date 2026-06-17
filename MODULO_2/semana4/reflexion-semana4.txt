@@ -1,0 +1,9 @@
+La capacidad de construir herramientas tecnológicas propias permite a las comunidades e
+iniciativas ciudadanas tener autonomía digital y no depender de corporaciones comerciales.
+El uso de tecnologías abiertas como Node.js reduce significativamente las barreras económicas,
+ya que su ecosistema es gratuito y cuenta con un gran soporte comunitario global para aprender.
+Además, estas herramientas de código abierto pueden ser auditadas y modificadas libremente
+para adaptarse con precisión a las necesidades sociales, culturales o locales de la comunidad.
+Fomenta la soberanía tecnológica, protege la privacidad de los datos de los ciudadanos
+y empodera a las personas para resolver problemáticas colectivas de forma colaborativa.
+En última instancia, democratiza la innovación, poniendo el software al servicio del bien común.

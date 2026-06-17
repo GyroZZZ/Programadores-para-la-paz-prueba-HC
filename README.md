@@ -27,3 +27,13 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[preguntas-semana3.txt](file:///MODULO_1/semana3/preguntas-semana3.txt)**: Respuestas sobre el funcionamiento de Git y sus estados.
 * **[conceptos-git.txt](file:///MODULO_1/semana3/conceptos-git.txt)**: Definiciones cortas de conceptos clave (Repositorio, Commit y Push).
 * **[reflexion-semana3.txt](file:///MODULO_1/semana3/reflexion-semana3.txt)**: Reflexión (9 líneas) sobre la importancia de la trazabilidad y el valor histórico del código.
+
+---
+
+### [Módulo 2: Backend, Node.js y Desarrollo de Servidores](file:///MODULO_2)
+
+#### [Semana 4: Node.js, Express y Servidor Básico](file:///MODULO_2/semana4)
+* **[server.js](file:///MODULO_2/semana4/server.js)**: Servidor Express básico que responde con un mensaje de comprobación.
+* **[package.json](file:///MODULO_2/semana4/package.json)**: Archivo de configuración del proyecto Node y sus dependencias.
+* **[preguntas-semana4.txt](file:///MODULO_2/semana4/preguntas-semana4.txt)**: Respuestas teóricas sobre Node y Express.
+* **[reflexion-semana4.txt](file:///MODULO_2/semana4/reflexion-semana4.txt)**: Reflexión (9 líneas) sobre la soberanía tecnológica y el software abierto.
