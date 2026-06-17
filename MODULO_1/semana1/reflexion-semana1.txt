@@ -1,0 +1,9 @@
+El uso responsable de la información en internet, la participación ciudadana y la organización
+técnica con herramientas como Git están profundamente conectados en la sociedad digital moderna.
+Un ciudadano digital activo y ético debe verificar los datos que consume y comparte para promover
+una participación informada y constructiva, fortaleciendo el debate en los espacios públicos.
+De manera análoga, en el ámbito técnico, Git nos enseña a ser responsables con nuestras aportaciones,
+registrando de forma transparente, ordenada y colaborativa el historial y avance del trabajo.
+Ambas prácticas fomentan la honestidad intelectual, la rendición de cuentas y el respeto al bien común.
+En última instancia, tanto verificar la información en la red como documentar rigurosamente el
+código son hábitos esenciales para construir entornos digitales más confiables, seguros y democráticos.

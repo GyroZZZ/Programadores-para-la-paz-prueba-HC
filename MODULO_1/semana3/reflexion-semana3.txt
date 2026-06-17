@@ -1,0 +1,9 @@
+Mantener un registro de cambios detallado con herramientas de control de versiones como Git
+es esencial en el desarrollo de software porque garantiza la trazabilidad y la seguridad del código.
+Esto permite que los desarrolladores identifiquen con precisión quién realizó cada modificación,
+cuándo se hizo y cuál fue el motivo detrás de ese cambio, facilitando la corrección de errores.
+Además, Git previene la pérdida accidental de información al permitir regresar a versiones
+anteriores estables del proyecto si surge algún problema con las nuevas implementaciones.
+Asimismo, optimiza el trabajo en equipo, evitando conflictos al fusionar el código de múltiples
+colaboradores en una sola base integrada. En conclusión, el historial de Git aporta orden,
+profesionalismo y una base sólida para el mantenimiento y evolución a largo plazo del sistema.

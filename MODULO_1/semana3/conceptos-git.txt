@@ -1,0 +1,5 @@
+Repositorio: Es el espacio o directorio de almacenamiento donde se guardan de manera organizada todos los archivos, carpetas e historial de cambios de un proyecto de desarrollo de software. Permite realizar un seguimiento completo de la evolución del código y colaborar de forma segura.
+
+Commit: Es una instantánea o registro del estado de los archivos del proyecto en un momento determinado. Al hacer un commit, se guardan los cambios realizados con un mensaje descriptivo y un identificador único, lo que proporciona trazabilidad y la posibilidad de volver a versiones anteriores si es necesario.
+
+Push: Es la acción de enviar los commits registrados localmente desde tu computadora o entorno de desarrollo (como Codespaces) hacia el repositorio remoto alojado en una plataforma en la nube (como GitHub). De esta manera, el trabajo queda respaldado en línea y disponible para otros miembros del equipo.

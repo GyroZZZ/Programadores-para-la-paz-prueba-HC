@@ -1,0 +1,9 @@
+Saber usar la terminal es una habilidad fundamental para cualquier desarrollador, ya que
+proporciona un control directo, rápido y preciso sobre el sistema operativo y el proyecto.
+A diferencia de las interfaces gráficas, la línea de comandos permite automatizar tareas
+repetitivas, ejecutar scripts de construcción y gestionar dependencias de manera eficiente.
+Además, navegar y organizar archivos desde la terminal agiliza el flujo de trabajo diario,
+facilitando la integración con herramientas indispensables en el desarrollo moderno como Git.
+El dominio de la terminal también es esencial al trabajar en servidores remotos o en la
+nube, donde no se dispone de entornos visuales y todo el control depende de comandos.
+En conclusión, optimiza el tiempo de desarrollo y prepara al programador para retos complejos.
