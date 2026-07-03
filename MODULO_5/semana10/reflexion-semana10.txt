@@ -1,0 +1,10 @@
+Las metodologías ágiles, la automatización y el uso de canales de comunicación directa como Telegram son herramientas
+fundamentales para potenciar la participación ciudadana y optimizar la veeduría vecinal. En primer lugar, el enfoque
+ágil permite que el desarrollo de soluciones comunitarias sea iterativo, adaptándose velozmente a los comentarios de
+los vecinos y asegurando que las funciones implementadas respondan a necesidades reales sin desperdiciar recursos. Por
+otro lado, la automatización (mediante herramientas como n8n) libera de tareas operativas y manuales al equipo
+coordinador, permitiendo que la información fluya sin demoras burocráticas y manteniendo a la comunidad alerta de
+forma automática. Finalmente, Telegram actúa como un puente directo, inclusivo y accesible para divulgar convocatorias
+y notificaciones no sensibles sin sobrecargar a los usuarios con aplicaciones complejas. En conjunto, esta sinergia
+tecnológica fortalece la transparencia, reduce la fricción en la comunicación y eleva la confianza comunitaria en los
+sistemas de participación democrática digital.

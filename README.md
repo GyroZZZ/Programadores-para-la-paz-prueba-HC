@@ -85,6 +85,18 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[componentes-servidor.txt](file:///MODULO_4/semana9/componentes-servidor.txt)**: Explicación corta (2 a 3 líneas) de los componentes clave de un entorno de servidor.
 * **[reflexion-semana9.txt](file:///MODULO_4/semana9/reflexion-semana9.txt)**: Reflexión sobre el valor de la estabilidad y ciberseguridad de los servidores para la confianza comunitaria.
 
+---
+
+### [Módulo 5: Metodologías ágiles, backlog, automatización y coordinación comunitaria](file:///MODULO_5)
+
+#### [Semana 10: Metodologías ágiles y automatización](file:///MODULO_5/semana10)
+* **[preguntas-semana10.txt](file:///MODULO_5/semana10/preguntas-semana10.txt)**: Respuestas a las preguntas de selección múltiple sobre backlog, historias de usuario, n8n y Telegram.
+* **[backlog-semana10.txt](file:///MODULO_5/semana10/backlog-semana10.txt)**: Backlog con historias de usuario para un sistema comunitario ordenadas por prioridad.
+* **[iteracion-semana10.txt](file:///MODULO_5/semana10/iteracion-semana10.txt)**: Planificación de la primera iteración (MVP) y definición de terminado (DoD).
+* **[automatizacion-semana10.txt](file:///MODULO_5/semana10/automatizacion-semana10.txt)**: Diseño de flujo automatizado con n8n y Telegram preservando datos sensibles.
+* **[reflexion-semana10.txt](file:///MODULO_5/semana10/reflexion-semana10.txt)**: Reflexión sobre la utilidad de las metodologías ágiles, automatización y Telegram en procesos comunitarios.
+
+
 
 
 

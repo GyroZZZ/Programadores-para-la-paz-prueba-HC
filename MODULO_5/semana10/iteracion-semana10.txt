@@ -1,0 +1,16 @@
+Definición de la Iteración Simple
+
+1. ¿Qué 2 tareas del backlog harías primero?
+   - Tarea 1: El registro y reporte de incidencias comunitarias por parte de la ciudadanía.
+   - Tarea 2: El envío automatizado de notificaciones no sensibles a Telegram para alertar a los coordinadores.
+
+2. ¿Por qué son las más importantes?
+   Estas dos tareas constituyen el núcleo funcional básico o MVP (Producto Mínimo Viable) de la plataforma. Sin el registro del reporte, el sistema no tiene información útil sobre la cual trabajar; y sin la alerta en Telegram, se pierde el canal de comunicación en tiempo real que incentiva y dinamiza la acción de los coordinadores y veedores. Juntas logran conectar directamente la necesidad del ciudadano con la alerta del organizador.
+
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+   Significa que la funcionalidad cumple con todos los requerimientos especificados, ha sido verificada y no requiere más modificaciones para ser integrada al proyecto principal de forma segura.
+
+   Criterios de Terminado (Definition of Done):
+   - El código está completo, limpio, libre de variables o funciones sin usar y cumple con los estándares del repositorio.
+   - La funcionalidad ha sido probada localmente (de extremo a extremo) verificando que resuelve el problema sin generar fallos secundarios.
+   - Los cambios han sido registrados y subidos al repositorio usando Git de manera ordenada.

@@ -1,0 +1,13 @@
+Backlog de Tareas y Historias de Usuario - Solución Comunitaria
+
+1. Prioridad: Alta
+   Historia: Como ciudadano quiero reportar una incidencia comunitaria (como baches, fallas de servicios o acumulación de basura) ingresando una descripción y la categoría para dejar evidencia pública de la problemática.
+
+2. Prioridad: Alta
+   Historia: Como coordinador comunitario quiero recibir una alerta automática y no sensible en un canal de Telegram cada vez que se registre una nueva incidencia para iniciar la coordinación de la solución sin demoras.
+
+3. Prioridad: Media
+   Historia: Como miembro del equipo de veeduría comunitaria quiero poder consultar la lista completa de reportes registrados para realizar el seguimiento del estado de cada uno.
+
+4. Prioridad: Baja
+   Historia: Como administrador de la plataforma quiero clasificar e indicar el estado de resolución de cada reporte (Pendiente, En Proceso, Resuelto) para mantener informada a la comunidad de los avances.
