@@ -1,0 +1,25 @@
+Modelo de Datos Básico para Plataforma Comunitaria
+
+Entidad: Causa
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental): Identificador único de la causa.
+- titulo (Texto, Obligatorio): Título o nombre de la causa comunitaria.
+- descripcion (Texto, Obligatorio): Explicación detallada de la causa o propuesta.
+- categoria (Texto): Área o rubro (ej. Medio ambiente, Seguridad, Infraestructura).
+- fecha_creacion (Fecha/Hora): Fecha en que se publicó la causa en la plataforma.
+- creador_id (Entero, Clave Foránea): ID del usuario que creó la causa.
+
+Propósito:
+Almacenar de forma organizada las diferentes iniciativas o causas propuestas por la ciudadanía para que sean visibles en el catálogo público de la plataforma.
+
+---
+
+Entidad: Apoyo
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental): Identificador único del registro de apoyo.
+- causa_id (Entero, Clave Foránea): Vinculación con la causa apoyada.
+- usuario_id (Entero, Clave Foránea): Identificación del usuario que brinda su apoyo.
+- fecha_apoyo (Fecha/Hora): Fecha y hora en la que se registró el voto o apoyo.
+
+Propósito:
+Registrar los apoyos individuales de la comunidad a cada causa particular, permitiendo contabilizar la participación, evitar duplicados y medir el impacto social de cada iniciativa.

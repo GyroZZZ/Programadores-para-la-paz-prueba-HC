@@ -1,0 +1,17 @@
+Descripción de la Interfaz Básica de la Plataforma
+
+La interfaz de usuario será responsiva, clara y sencilla, diseñada para facilitar la interacción de cualquier habitante de la comunidad sin sobrecargar la pantalla:
+
+1. Vista de Causas Disponibles:
+   Una sección principal en formato de cuadrícula o lista que muestra todas las causas comunitarias publicadas, ordenadas de forma cronológica o por nivel de apoyo. Cada causa se presentará como una tarjeta con su título, descripción breve, categoría y fecha.
+
+2. Formulario para Crear una Causa:
+   Un formulario accesible únicamente para usuarios autenticados, con campos limpios de texto para ingresar el "Título de la Causa", la "Descripción" y seleccionar una "Categoría" mediante un menú desplegable, finalizando con un botón de "Publicar Causa".
+
+3. Botón para Apoyar una Causa:
+   Dentro de la tarjeta de cada causa disponible, se incluirá un botón interactivo (por ejemplo, con un icono de mano alzada o corazón) que permite a los usuarios autenticados registrar su apoyo con un solo clic.
+
+4. Contador de Apoyos:
+   Al lado del botón de apoyar, se mostrará dinámicamente un contador numérico (ej. "42 apoyos") que refleja el volumen de participación colectiva que ha recibido esa propuesta.
+
+*Nota de seguridad:* La interfaz nunca expondrá datos sensibles como el correo electrónico o el teléfono de los creadores o de los votantes, preservando siempre la privacidad de la comunidad.

@@ -1,0 +1,6 @@
+El proceso de login o inicio de sesión permite verificar de forma segura la identidad de un usuario antes de concederle
+acceso a las funciones del sistema. Es fundamental que ciertas rutas estén protegidas (como los paneles de administración
+o las bases de datos de reportes) para evitar que usuarios no autorizados alteren la información o realicen acciones
+maliciosas. Finalmente, para salvaguardar la privacidad de la ciudadanía y mitigar riesgos de seguridad, bajo ninguna
+circunstancia se debe exponer públicamente información confidencial como contraseñas, direcciones domiciliarias exactas,
+números de teléfono, documentos de identidad o tokens de acceso a APIs.

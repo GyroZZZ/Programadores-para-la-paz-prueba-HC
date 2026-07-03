@@ -1,0 +1,9 @@
+Una plataforma tecnológica enfocada en la participación ciudadana requiere un diseño integral que incorpore base de
+datos, autenticación y protección de la información por razones éticas y operativas fundamentales. La base de datos
+garantiza que las propuestas, reportes e interacciones locales se almacenen de forma estructurada, permitiendo la
+transparencia y la trazabilidad histórica necesaria para la veeduría. Por su parte, la autenticación de usuarios es
+indispensable para legitimar la participación, evitando votos duplicados o acciones maliciosas que desvirtúen los
+procesos democráticos. Finalmente, la estricta protección de la información personal de los participantes es un
+deber ético y legal que salvaguarda a los líderes comunitarios y denunciantes de posibles represalias, acoso o hackeos.
+En definitiva, estos tres pilares son la base técnica y de seguridad que sustenta la confianza comunitaria, sin la
+cual cualquier esfuerzo de organización digital y paz colectiva está destinado a fracasar.

@@ -96,6 +96,14 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[automatizacion-semana10.txt](file:///MODULO_5/semana10/automatizacion-semana10.txt)**: Diseño de flujo automatizado con n8n y Telegram preservando datos sensibles.
 * **[reflexion-semana10.txt](file:///MODULO_5/semana10/reflexion-semana10.txt)**: Reflexión sobre la utilidad de las metodologías ágiles, automatización y Telegram en procesos comunitarios.
 
+#### [Semana 11: Base de datos, autenticación e interfaz básica](file:///MODULO_5/semana11)
+* **[preguntas-semana11.txt](file:///MODULO_5/semana11/preguntas-semana11.txt)**: Respuestas a las preguntas de selección múltiple sobre bases de datos, CRUD, autenticación y privacidad.
+* **[modelo-datos.txt](file:///MODULO_5/semana11/modelo-datos.txt)**: Diseño de un modelo de datos simple con las entidades Causa y Apoyo para la plataforma comunitaria.
+* **[autenticacion.txt](file:///MODULO_5/semana11/autenticacion.txt)**: Explicación conceptual del proceso de login, protección de rutas y manejo de información no expuesta.
+* **[interfaz.txt](file:///MODULO_5/semana11/interfaz.txt)**: Descripción de los elementos básicos de la interfaz de la plataforma (formulario, botón de apoyo, contadores).
+* **[reflexion-semana11.txt](file:///MODULO_5/semana11/reflexion-semana11.txt)**: Reflexión sobre la importancia de las bases de datos, la autenticación y la protección de datos en la participación ciudadana.
+
+
 
 
 
