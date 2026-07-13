@@ -1,0 +1,9 @@
+Durante este curso he aprendido que la tecnología es un puente sumamente potente para democratizar la participación
+ciudadana y coordinar causas locales, siempre y cuando se diseñe con un profundo sentido de responsabilidad y ética
+digital. Entendí que desarrollar plataformas comunitarias efectivas no consiste únicamente en escribir código
+funcional, sino en estructurar bases de datos ordenadas que garanticen la trazabilidad y la memoria histórica de las
+veedurías sin vulnerar la privacidad de los vecinos. Herramientas de automatización como n8n y canales sencillos de
+comunicación como Telegram permiten que las comunidades rompan barreras burocráticas y gestionen reportes vecinales
+en tiempo real de manera transparente. Sin embargo, el mayor aprendizaje ha sido comprender la importancia de proteger
+con rigurosidad los datos personales de las personas y de mantener siempre la supervisión humana en la toma de
+decisiones críticas para resguardar la confianza colectiva en los sistemas.

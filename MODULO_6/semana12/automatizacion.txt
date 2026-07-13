@@ -1,0 +1,20 @@
+Diseño de la Automatización con n8n y Telegram
+
+1. Evento detonador (Trigger):
+   La automatización se activa mediante un webhook en n8n que recibe una notificación HTTP POST cuando una causa vecinal alcanza la meta de apoyos establecida o cuando el creador de la causa genera el PDF definitivo.
+
+2. Mensaje enviado a Telegram:
+   El bot de Telegram envía un mensaje automático al canal de la junta de acción comunal o del grupo de veeduría:
+   "📜 *Petición Lista para Presentar*
+   La causa comunitaria '[Título de la causa]' ha alcanzado la meta requerida de apoyos comunitarios.
+   - Total de Apoyos: [Contador de apoyos]
+   - Sector afectado: [Sector/Barrio]
+   - Documento PDF generado: [Enlace de descarga directa del PDF consolidado]
+   El documento ya puede ser descargado y radicado formalmente."
+
+3. Información excluida por seguridad:
+   Para proteger la privacidad de los vecinos que respaldaron la propuesta, el mensaje de Telegram nunca incluirá:
+   - Nombres o apellidos de las personas que votaron/apoyaron.
+   - Cédulas de ciudadanía u otros documentos de identidad.
+   - Números de teléfono, correos electrónicos o contraseñas.
+   - Direcciones de domicilio particulares o comentarios privados de los firmantes.

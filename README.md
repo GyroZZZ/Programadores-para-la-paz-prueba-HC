@@ -103,6 +103,18 @@ Este repositorio contiene el historial de actividades prácticas y entregas orga
 * **[interfaz.txt](file:///MODULO_5/semana11/interfaz.txt)**: Descripción de los elementos básicos de la interfaz de la plataforma (formulario, botón de apoyo, contadores).
 * **[reflexion-semana11.txt](file:///MODULO_5/semana11/reflexion-semana11.txt)**: Reflexión sobre la importancia de las bases de datos, la autenticación y la protección de datos en la participación ciudadana.
 
+---
+
+### [Módulo 6: Integración del Reto Final](file:///MODULO_6)
+
+#### [Semana 12: Reto final: Petición en 3 Clics](file:///MODULO_6/semana12)
+* **[preguntas-semana12.txt](file:///MODULO_6/semana12/preguntas-semana12.txt)**: Respuestas a las preguntas de selección múltiple sobre la plataforma "Petición en 3 Clics", generación de PDF, privacidad y notificaciones.
+* **[flujo-sistema.txt](file:///MODULO_6/semana12/flujo-sistema.txt)**: Descripción de los pasos secuenciales de funcionamiento del sistema (MVP).
+* **[modelo-datos.txt](file:///MODULO_6/semana12/modelo-datos.txt)**: Diseño y propósito del modelo de datos para las entidades Causa y Apoyo en el reto final.
+* **[automatizacion.txt](file:///MODULO_6/semana12/automatizacion.txt)**: Planificación del flujo de automatización no sensible con n8n y Telegram.
+* **[reflexion-semana12.txt](file:///MODULO_6/semana12/reflexion-semana12.txt)**: Reflexión final de cierre de curso sobre el papel de la tecnología y la ética en los procesos de organización comunitaria.
+
+
 
 
 

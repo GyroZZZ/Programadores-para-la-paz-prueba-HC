@@ -1,0 +1,19 @@
+Flujo del Sistema "Petición en 3 Clics"
+
+1. Creación de la Causa:
+   Un ciudadano promotor accede al formulario de la plataforma e ingresa el título, descripción de la propuesta y sector afectado para crear una nueva causa.
+
+2. Almacenamiento Estructurado:
+   La plataforma recibe la información y guarda la causa en la base de datos relacional asociándole un identificador único y una marca de tiempo.
+
+3. Recolección de Apoyos:
+   Los vecinos del sector visitan la lista pública de causas, seleccionan la propuesta de su interés y hacen clic en "Apoyar" para registrar su firma digital y respaldo.
+
+4. Procesamiento e Incremento en Tiempo Real:
+   El servidor de backend recibe la solicitud de apoyo, verifica que el usuario no haya votado previamente, guarda la firma y actualiza el contador de apoyos en pantalla.
+
+5. Generación del Documento PDF:
+   Una vez alcanzada la meta de apoyos (o al presionar un botón del creador), el backend consolida la información e invoca una librería de generación de PDF para crear el documento formal de la petición vecinal.
+
+6. Notificación y Descarga:
+   Un webhook de n8n detecta la generación del documento formal y envía una alerta no sensible al canal de Telegram indicando que el PDF de la petición ya está listo para ser descargado y presentado ante las autoridades competentes.

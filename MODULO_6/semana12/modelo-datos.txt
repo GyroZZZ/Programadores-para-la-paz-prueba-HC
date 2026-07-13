@@ -1,0 +1,24 @@
+Modelo de Datos de la Plataforma "Petición en 3 Clics"
+
+Entidad: Causa
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental)
+- titulo (Texto, Obligatorio)
+- descripcion (Texto, Obligatorio)
+- sector (Texto, Obligatorio)
+- fecha_creacion (Fecha/Hora)
+
+Propósito:
+Esta entidad sirve para registrar toda la información relevante de cada iniciativa comunitaria o petición propuesta por la ciudadanía. Permite almacenar la problemática de forma estructurada para su posterior despliegue en la interfaz del sistema.
+
+---
+
+Entidad: Apoyo
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental)
+- causa_id (Entero, Clave Foránea vinculada a Causa)
+- firma_hash (Texto, Firma o identificador único cifrado del usuario para evitar duplicidad)
+- fecha_apoyo (Fecha/Hora)
+
+Propósito:
+Esta entidad sirve para almacenar de forma individualizada los apoyos o firmas digitales que recibe cada causa. Su estructura permite asociar los respaldos a su causa correspondiente y realizar el conteo de firmas necesarias sin almacenar datos sensibles directamente.
